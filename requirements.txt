@@ -1,0 +1,24 @@
+# Core Data Analysis Libraries
+pandas>=2.0.0
+numpy
+matplotlib
+seaborn
+
+# NLP and Sentiment Analysis
+nltk
+spacy
+textblob
+beautifulsoup4
+contractions
+emoji
+
+# Machine Learning / Topic Modeling (No C++ dependencies)
+scikit-learn
+#⚠️ Avoid numpy>=1.26 and scikit-learn>=1.3 unless you have a C++ compiler like Microsoft Build Tools.
+
+# Visualization
+wordcloud
+plotly
+pyLDAvis
+# Data Processing
+scipy
